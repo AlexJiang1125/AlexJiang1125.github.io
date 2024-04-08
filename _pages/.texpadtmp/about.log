@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.6.21)  26 MAR 2024 02:49
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.6.21)  8 APR 2024 02:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -369,26 +369,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 20.
- [1
 
-] [2
+Overfull \hbox (2.22664pt too wide) in paragraph at lines 22--30
+\TU/HelveticaNeue(0)/m/n/12 more_info: $\OML/cmm/m/it/12 >$ $<$\TU/lmtt/m/n/12 p$\OML/cmm/m/it/12 >$\TU/HelveticaNeue(0)/m/n/12 Box 354322$\OML/cmm/m/it/12 <$\TU/lmtt/m/n/12 /p$\OML/cmm/m/it/12 >$ $<$\TU/lmtt/m/n/12 p$\OML/cmm/m/it/12 >$\TU/HelveticaNeue(0)/m/n/12 4110 E Stevens Way NE$\OML/cmm/m/it/12 <$\TU/lmtt/m/n/12 /p$\OML/cmm/m/it/12 >$ $<$\TU/lmtt/m/n/12 p$\OML/cmm/m/it/12 >$\TU/HelveticaNeue(0)/m/n/12 Seattle, WA 98195$\OML/cmm/m/it/12 <$\TU/lmtt/m/n/12 /p$\OML/cmm/m/it/12 >$ 
+ []
 
-]
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <24.88> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 39.
- [3] [4
+[1
 
-] [5] (/Users/alexziyujiang/Documents/GitHub/AlexJiang1125.github.io/_pages/.texpadtmp/about.aux)
+] (/Users/alexziyujiang/Documents/GitHub/AlexJiang1125.github.io/_pages/.texpadtmp/about.aux)
 Package rerunfilecheck Info: File `about.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10403 strings out of 476919
- 206931 string characters out of 5821840
- 559359 words of memory out of 5000000
- 30277 multiletter control sequences out of 15000+600000
- 406694 words of font info for 58 fonts, out of 8000000 for 9000
+ 10395 strings out of 476919
+ 206725 string characters out of 5821840
+ 561359 words of memory out of 5000000
+ 30273 multiletter control sequences out of 15000+600000
+ 406670 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 81i,4n,89p,393b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,4n,89p,615b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/alexziyujiang/Documents/GitHub/AlexJiang1125.github.io/_pages/.texpadtmp/about.pdf (5 pages).
+Output written on /Users/alexziyujiang/Documents/GitHub/AlexJiang1125.github.io/_pages/.texpadtmp/about.pdf (1 page).
