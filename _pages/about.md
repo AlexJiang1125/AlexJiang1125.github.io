@@ -25,4 +25,4 @@ Jointly advised by [Abel Rodriguez](https://sites.stat.washington.edu/people/abe
 
 In my spare time, I watch many movies, go to lots of live concerts and sometimes [write reviews](https://xavj.wordpress.com/).
 
-
+I will be presenting at [ISBA](https://www.unive.it/web/en/2208/home) and [JSM](https://ww2.amstat.org/meetings/jsm/2024/) later this year. Hope to see you there!
